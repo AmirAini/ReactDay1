@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactDay1/static/css/main.73506b05.chunk.css",
+    "main.js": "/ReactDay1/static/js/main.3c803d6b.chunk.js",
+    "main.js.map": "/ReactDay1/static/js/main.3c803d6b.chunk.js.map",
+    "runtime-main.js": "/ReactDay1/static/js/runtime-main.b0262f85.js",
+    "runtime-main.js.map": "/ReactDay1/static/js/runtime-main.b0262f85.js.map",
+    "static/js/2.f3844ccd.chunk.js": "/ReactDay1/static/js/2.f3844ccd.chunk.js",
+    "static/js/2.f3844ccd.chunk.js.map": "/ReactDay1/static/js/2.f3844ccd.chunk.js.map",
+    "static/js/3.414b7dc1.chunk.js": "/ReactDay1/static/js/3.414b7dc1.chunk.js",
+    "static/js/3.414b7dc1.chunk.js.map": "/ReactDay1/static/js/3.414b7dc1.chunk.js.map",
+    "index.html": "/ReactDay1/index.html",
+    "static/css/main.73506b05.chunk.css.map": "/ReactDay1/static/css/main.73506b05.chunk.css.map",
+    "static/js/2.f3844ccd.chunk.js.LICENSE.txt": "/ReactDay1/static/js/2.f3844ccd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactDay1/static/media/logo.6ce24c58.svg",
+    "static/media/home.css": "/ReactDay1/static/media/pic1.ad929414.jpg",
+    "static/media/about.css": "/ReactDay1/static/media/pic2.68ab1bac.jpg",
+    "static/media/work.css": "/ReactDay1/static/media/pic3.5e9ebc3e.jpg",
+    "static/media/pic4.02bbcbed.png": "/ReactDay1/static/media/pic4.02bbcbed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0262f85.js",
+    "static/js/2.f3844ccd.chunk.js",
+    "static/css/main.73506b05.chunk.css",
+    "static/js/main.3c803d6b.chunk.js"
+  ]
+}
